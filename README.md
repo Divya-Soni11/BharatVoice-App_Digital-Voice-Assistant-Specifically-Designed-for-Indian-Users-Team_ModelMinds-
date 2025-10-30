@@ -3,7 +3,8 @@
 BharatVoice is an innovative voice-first digital assistant designed specifically for Indian users, bridging the digital literacy gap by providing intuitive voice-guided navigation through popular mobile applications. Our app empowers users to confidently use digital platforms like WhatsApp, PhonePe, YouTube, and more through simple voice commands in both Hindi and English.
 
 # 🌟 Unique Selling Proposition (USP)
-"Your Voice-Controlled Digital Guide - Making Every Indian App-Literate Through Spoken Commands"
+**BharatVoice: Voice-first digital assistant with advanced NLP for Hindi/English commands. Proprietary visual overlay system provides real-time UI element highlighting with background dimming. Zero-touch, fully voice-controlled navigation across mobile applications.
+**
 
 # 🚀 Key Differentiators
 # 1. Voice-First Digital Literacy
