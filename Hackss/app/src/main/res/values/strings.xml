@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">startup_hackathon2.0</string>
+    <string name="accessibility_service_description">
+        Accessibility Assistant helps you navigate apps using voice commands. 
+        It can read screen content, click buttons, scroll, and type text across all your apps.
+        Your privacy is protected - all processing happens on your device.
+    </string>
+</resources>
