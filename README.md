@@ -132,6 +132,25 @@ Users needing confidence in digital transactions
 
 Individuals preferring voice over typing
 
+reaction
+
+# 💰 Business Potential
+# 📊 TAM: $2B+
+Digital India initiative
+
+UPI transaction growth
+
+Vernacular internet users
+
+# 💸 MONETIZATION
+B2C: Premium features
+
+B2B: Bank/App partnerships
+
+B2G: Government digital literacy programs
+
+
+
 # 🌍 Social Impact
 Democratizing Digital Access
 
